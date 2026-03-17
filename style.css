@@ -1,0 +1,29 @@
+ h4{
+            text-align: center;
+        }
+        #wow{
+            color: #F52735;
+        }
+        #woo{
+            color: #073dd3;
+            
+        }
+        .hey{
+            text-decoration: underline;
+        }
+        img{
+            display: block;
+            margin: 50px auto;
+            border: 2px solid #d16196;
+            border-radius: 20px;
+            box-shadow: 0 0 10px #680310;
+        }
+        a{
+            text-decoration: none;
+            color: #199610;
+            font-weight: bold;
+        }
+        a:hover{
+                color: #660834;
+                background-color: rgb(153, 91, 10);
+        }
